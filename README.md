@@ -7,5 +7,8 @@
 
 <div>
 <a href="https://github.com/petersons579">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersons579&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersons579&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />          
